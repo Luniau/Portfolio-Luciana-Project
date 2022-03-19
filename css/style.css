@@ -5,6 +5,7 @@
 }
 body {
   margin: 10px 0;
+ 
 }
 h1,
 h2,
@@ -25,14 +26,16 @@ p {
   font-size: 18px;
   line-height: 1.5;
 }
-.navegation-links {
+.navigation-links {
   display: flex;
   margin-top: 40px;
   justify-content: center;
+  
 }
-.navegation-links a {
+.navigation-links a {
   margin: 20px;
 }
+
 .primary-link {
   border-radius: 4px;
   padding: 20px 15px;
@@ -45,7 +48,7 @@ p {
 .primary-link:hover {
   color: white;
 }
-.secundary-link {
+.secondary-link {
   border-radius: 4px;
   padding: 20px 15px;
   text-decoration: none;
